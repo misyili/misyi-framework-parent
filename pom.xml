@@ -40,14 +40,14 @@
         <kryo.version>4.0.2</kryo.version>
         <kryo.serializers.version>0.42</kryo.serializers.version>
         <fst.version>2.48-jdk-6</fst.version>
-        <mysql.connector.version>5.1.39</mysql.connector.version>
+        <mysql.connector.version>8.0.16</mysql.connector.version>
         <shiro.version>1.3.2</shiro.version>
         <spring.data.mongodb.version>2.1.6.RELEASE</spring.data.mongodb.version>
         <mongo.driver.version>3.10.2</mongo.driver.version>
         <mongo.driver.reactivestreams.version>1.11.0</mongo.driver.reactivestreams.version>
         <reactor.core.version>3.2.9.RELEASE</reactor.core.version>
         <reactor.netty.version>0.8.9.RELEASE</reactor.netty.version>
-        <quartz.version>2.2.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <fastjson.version>1.2.73</fastjson.version>
         <lombok.version>1.18.12</lombok.version>
         <alipay.sdk.java.version>4.10.70.ALL</alipay.sdk.java.version>
@@ -63,7 +63,7 @@
         <commons.lang3.version>3.11</commons.lang3.version>
         <commons.io.version>2.6</commons.io.version>
         <commons.collections.version>4.1</commons.collections.version>
-        <jackson.version>2.9.6</jackson.version>
+        <jackson.version>2.11.1</jackson.version>
         <feign.version>11.0</feign.version>
         <aviator.version>4.0.0-RC</aviator.version>
         <kie.version>7.7.0.Final</kie.version>
