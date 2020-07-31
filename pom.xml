@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.misyi.framework</groupId>
-    <artifactId>misyi-framework-parent</artifactId>
+    <artifactId>framework-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>misyi-framework-parent</name>
+    <name>framework-parent</name>
     <url>http://maven.apache.org</url>
 
     <properties>
