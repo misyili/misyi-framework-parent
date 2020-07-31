@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.misyi.framework</groupId>
-    <artifactId>framework-parent</artifactId>
+    <artifactId>misyi-framework-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
