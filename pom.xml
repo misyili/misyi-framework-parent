@@ -92,7 +92,7 @@
         <webmagic.version>0.7.3</webmagic.version>
         <swagger.version>2.6.1</swagger.version>
         <servlet.version>3.1.0</servlet.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <redisson-spring-boot-starter.version>3.13.4</redisson-spring-boot-starter.version>
         <velocity-engine-core.version>2.2</velocity-engine-core.version>
         <java-jwt.version>3.9.0</java-jwt.version>
